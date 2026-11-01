@@ -1009,7 +1009,7 @@ The project can be extended with:
 
 ## LCD Interface
 
-![LCD Interface](Hardware/LCD.jpeg)
+![LCD Interface](Proteus/LPC2148_LCD.png)
 
 ## Proteus Circuit
 
